@@ -26,17 +26,17 @@ It is controlled by standard signals such as clock, write enable, address, and d
 ## 📁 Project Structure
 
 Single-Port-RAM-RTL/
-│
-├── rtl/
-│ └── ram.v # Verilog RTL design of Single-Port RAM
-│
-├── tb/
-│ └── ram_tb.v # Testbench for verification
-│
-├── doc/
-│ └── rtl_view.png # RTL schematic or synthesis view
-│
-└── README.md # Project documentation
+ ``` │
+ ``` ├── rtl/
+ ``` │ └── ram.v # Verilog RTL design of Single-Port RAM
+ ``` │
+ ``` ├── tb/
+ ``` │ └── ram_tb.v # Testbench for verification
+ ``` │
+ ``` ├── doc/
+ ``` │ └── rtl_view.png # RTL schematic or synthesis view
+ ``` │
+ ``` └── README.md # Project documentation
 
 
 ---
