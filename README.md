@@ -50,6 +50,16 @@ It includes a set of stimulus signals to test write and read operations under di
 
 ---
 
+
+## 📊 Simulation Waveform
+
+Below is a waveform captured using **QuestaSim**, showing the write and read operations on the RAM.  
+The simulation confirms correct memory behavior across different clock cycles.
+
+![Simulation Waveform](./doc/waveform.png)
+
+
+---
 ## 🖼️ RTL/Synthesis View
 
 Below is an image from the RTL analysis or synthesis report:
