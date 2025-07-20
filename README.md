@@ -54,7 +54,7 @@ It includes a set of stimulus signals to test write and read operations under di
 
 Below is an image from the RTL analysis or synthesis report:
 
-![RTL View](./doc/rtl_view.png)
+![RTL View](https://github.com/Eng-AbdallahSabah/Single-Port-RAM-RTL/blob/main/doc/RTL%20Analysis.png)
 
 ---
 
