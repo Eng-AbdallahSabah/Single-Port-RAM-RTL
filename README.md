@@ -24,7 +24,7 @@ It is controlled by standard signals such as clock, write enable, address, and d
 ---
 
 ## 📁 Project Structure
-
+```
 Single-Port-RAM-RTL/
 │
 ├── rtl/
@@ -37,7 +37,7 @@ Single-Port-RAM-RTL/
 │ └── rtl_view.png # RTL schematic or synthesis view
 │
 └── README.md # Project documentation
-
+```
 
 ---
 
